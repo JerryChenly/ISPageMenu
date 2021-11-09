@@ -1,10 +1,4 @@
-# ISPageMenu
-
-[![CI Status](https://img.shields.io/travis/JerryChenly/ISPageMenu.svg?style=flat)](https://travis-ci.org/JerryChenly/ISPageMenu)
-[![Version](https://img.shields.io/cocoapods/v/ISPageMenu.svg?style=flat)](https://cocoapods.org/pods/ISPageMenu)
-[![License](https://img.shields.io/cocoapods/l/ISPageMenu.svg?style=flat)](https://cocoapods.org/pods/ISPageMenu)
-[![Platform](https://img.shields.io/cocoapods/p/ISPageMenu.svg?style=flat)](https://cocoapods.org/pods/ISPageMenu)
-
+# PageMenu
 适用于iOS平台的视图管理组件，上面是可左右滚动的Tab(基于UICollectionView实现)，下面是可翻页的PageView(基于UIScrollView实现)，解决子视图生命周期混乱问题，常用于电商和资讯类App的首页等场景。
 
 ISMenuTabView：以UICollectionView为载体实现tab标签视图；
@@ -15,7 +9,8 @@ ISPageMenu：结合ISPageView和ISMenuTabView实现多ViewController视图切换
 
 其中ISMenuTabView和ISPageView可单独使用。
 
-## 个性化定制 - ISMenuTabView
+
+# 个性化定制 - ISMenuTabView
 
 1、tab标签之间的最小间距；
 
@@ -33,7 +28,7 @@ ISPageMenu：结合ISPageView和ISMenuTabView实现多ViewController视图切换
 
 8、segment样式下，tab之间分割线的颜色；
 
-9、segment样式下，tab之间分割线的宽度
+9、segment样式下，tab之间分割线的宽度；
 
 ## Example
 
