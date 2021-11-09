@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ISPageMenu_Example' do
+  pod 'ISPageMenu', :path => '../'
+
+  target 'ISPageMenu_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
