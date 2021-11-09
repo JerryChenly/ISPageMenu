@@ -1,0 +1,33 @@
+PODS:
+  - FLAnimatedImage (1.0.16)
+  - ISPageMenu (0.1.0):
+    - FLAnimatedImage (~> 1.0.16)
+    - SDWebImage (~> 5.11.1)
+    - SnapKit (~> 4.2.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - ISPageMenu (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FLAnimatedImage
+    - SDWebImage
+    - SnapKit
+
+EXTERNAL SOURCES:
+  ISPageMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 8f3e854ebf9680b71f0b6e700939687fc4d82b4b
+  ISPageMenu: 99f94e9e8325473fd4ebc717df87acbbcd048812
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 32cb88545b8fa2f6e6d087d157ea43bea3e56ea7
+
+COCOAPODS: 1.11.2

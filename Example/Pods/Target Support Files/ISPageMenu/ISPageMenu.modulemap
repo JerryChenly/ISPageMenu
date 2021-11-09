@@ -1,0 +1,6 @@
+framework module ISPageMenu {
+  umbrella header "ISPageMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

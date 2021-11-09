@@ -1,0 +1,6 @@
+framework module Pods_ISPageMenu_Example {
+  umbrella header "Pods-ISPageMenu_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
